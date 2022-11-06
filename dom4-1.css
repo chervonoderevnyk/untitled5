@@ -1,0 +1,78 @@
+.conteiner {
+    width: 99.5%;
+    height: 800px;
+    background: white;
+    border-radius: 15px;
+    border: 3px solid rgb(3, 2, 2);
+}
+.dido  {
+    width: 98.8%;
+    height: 32%;
+    background: silver;
+    border-radius: 15px;
+    margin: 8px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.baba {
+    width: 98.8%;
+    height: 64.3%;
+    background: white;
+    border-radius: 15px;
+    margin: 8px;
+    display: flex;
+}
+.block1{
+    background: white;
+    width: 80%;
+    height: 100%;
+    border-radius: 15px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.block2{
+    background: silver;
+    width: 20%;
+    height: 100%;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.block3{
+    width: 100%;
+    height: 49%;
+    background: silver;
+    border-radius: 15px;
+    margin-right: 8px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.block4{
+    width: 100%;
+    height: 50%;
+    background: white;
+    border-radius: 15px;
+    display: flex;
+
+}
+.block5{
+    width: 33.5%;
+    height: 98%;
+    background: silver;
+    border-radius: 15px;
+    margin: 8px 9px 0px 0px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.text{
+    width: 25px;
+    text-decoration: black;
+    font-size: xxx-large;
+    opacity: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+}
+
